@@ -19,14 +19,14 @@
 - 9.35 CGPA -> overall 4 years 1st RANK
 
 - 🏆 Got 1st prizes in:
--🏆 Programming & problem solving
--🏆 Byte Battle (Coding)
--🏆 Debugging
--🏆 2 chess tournaments 
+- 🏆 Programming & problem solving
+- 🏆 Byte Battle (Coding)
+- 🏆 Debugging
+- 🏆 2 chess tournaments 
 
 - 👨‍💻 Worked as Data Science Intern At
--💻 CodeClause
--💻 Oasis InfoByte
+- 💻 CodeClause
+- 💻 Oasis InfoByte
 
 - ♟️ Hobbies
 - Chess
